@@ -16,8 +16,8 @@
       <file leaf-file-name="baseball_game.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/baseball_game.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7748">
-              <caret line="298" lean-forward="true" selection-start-line="298" selection-end-line="298" />
+            <state relative-caret-position="338">
+              <caret line="226" column="43" selection-start-line="226" selection-start-column="43" selection-end-line="226" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -39,7 +39,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1" />
     <option name="y" value="1" />
     <option name="width" value="1022" />
@@ -194,8 +194,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/baseball_game.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7748">
-          <caret line="298" lean-forward="true" selection-start-line="298" selection-end-line="298" />
+        <state relative-caret-position="338">
+          <caret line="226" column="43" selection-start-line="226" selection-start-column="43" selection-end-line="226" selection-end-column="43" />
         </state>
       </provider>
     </entry>

@@ -224,7 +224,8 @@ def is_yes(one_more_input):
     # 조건에 따라 변환되어야 할 결과를 result 변수에 할당
 
     # ==================================
-    return one_more_input == "Y" or one_more_input == "YES"
+    one_more_input = one_more_input.lower()
+    return one_more_input == "y" or one_more_input == "yes"
 
 
 def is_no(one_more_input):
@@ -255,7 +256,8 @@ def is_no(one_more_input):
     # 조건에 따라 변환되어야 할 결과를 result 변수에 할당
 
     # ==================================
-    return one_more_input == "N" or one_more_input == "NO"
+    one_more_input = one_more_input.lower()
+    return one_more_input == "n" or one_more_input == "no"
 
 
 def main():
